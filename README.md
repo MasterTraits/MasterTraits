@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hello!
+✨ I'm Emmanuel, simply a junior programmer who is currently learning `cs50`, `WebDev`, and `networking`!
 
+To put my skills in a nutshell:
+| The nut |
+|:---------------:|:--:|
+|Web Development| 1 |
+|Python | 2 |
+|C++  | 3 |
 <!--
 **MasterTraits/MasterTraits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
