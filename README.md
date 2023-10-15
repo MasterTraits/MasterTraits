@@ -2,6 +2,7 @@
 ✨ I'm Emmanuel, simply a junior programmer who is currently learning `cs50`, `WebDev`, and `networking`!
 
 📫 Reach me out if you want me to do some small tasks or any tasks!
+
 **🌱🌱My Goals for this year is:**
 - Fully learn TOP
 - Finish CS50
