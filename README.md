@@ -2,6 +2,7 @@
 ✨ I'm Emmanuel, simply a junior programmer who is currently learning `cs50`, `WebDev`, and `networking`!
 
 - [#] To put my programming skills in a nutshell:
+
 | The Language | rank |
 |:---------------:|:--:|
 |Web Development| 1 |
