@@ -1,7 +1,13 @@
 # Hello!
 ✨ I'm Emmanuel, simply a junior programmer who is currently learning `cs50`, `WebDev`, and `networking`!
 
-/* To put my programming skills in a nutshell: */
+📫 Reach me out if you want me to do some small tasks or any tasks!
+**🌱🌱My Goals for this year is:**
+- Fully learn TOP
+- Finish CS50
+- Have basic 
+
+[#] To put my programming skills in a nutshell:
 
 | The Language | rank |
 |:---------------:|:--:|
