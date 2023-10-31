@@ -1,5 +1,5 @@
 # Hello!
-✨ I'm Emmanuel, simply a junior programmer who is currently learning `cs50`, `WebDev`, and `networking`!
+✨ I'm Emmanuel, simply a 1st year BSIT Junior programmer who is currently learning `cs50`, `WebDev`, and `networking`!
 
 📫 Reach me out if you want me to do some small tasks or any tasks!
 
