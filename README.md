@@ -1,9 +1,7 @@
-<h1>Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">I'm Emmanuel, simply a 1st year BSIT Junior programmer who is currently learning cs50, WebDev, and networking!</h3>
----------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastertraits&label=Profile%20views&color=0e75b6&style=flat" alt="mastertraits" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastertraits" alt="mastertraits" /></a> </p>
+<h1>Hi 👋, I'm Emmanuel</h1>
+<h3 align="center">I'm Emmanuel, simply a 1st year BSIT Junior programmer who is currently learning cs50, WebDev, and networking!</h3>
 
 - 🔭 I’m currently working on **myself, and to improve**
 
