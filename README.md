@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastertraits&label=Profile%20views&color=0e75b6&style=flat" alt="mastertraits" /> </p>
 
 <h1>Hi 👋, I'm Emmanuel</h1>
-<h3 align="center" style="width:40ch">I'm Emmanuel, simply a 1st year BSIT Junior programmer who is currently learning cs50, WebDev, and networking!</h3>
+<h3 align="center" style="width:30ch;">I'm Emmanuel, simply a 1st year BSIT Junior programmer who is currently learning cs50, WebDev, and networking!</h3>
 
 - 🔭 I’m currently working on **myself, and to improve**
 
