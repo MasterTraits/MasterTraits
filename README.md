@@ -14,13 +14,13 @@
 <h3 align="center">Reach me out!</h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/emmanuel-fabella-727788264/" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel fabella" height="30" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Github" height="30" width="40" />
 	</a>
 	<a href="https://fb.com/emmanuel fabella" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanuel fabella" height="30" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 	</a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emmanuelfabella606@gmail.com" target="blank">
-    <button>Gmail</button>
+    <img align="center" src="https://i.pinimg.com/736x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" alt="Gmail" height="30" width="40" />
   </a>
 </p> <br>
 <h3 align="center">Languages and Tools:</h3>
