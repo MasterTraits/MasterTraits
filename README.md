@@ -1,5 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mastertraits&label=Profile%20views&color=0e75b6&style=flat" alt="mastertraits" /> </p>
 <img src="Welcome (2).gif" type="image/gif" alt="intro" width="auto">
+<br>
 <h2>I'm Emmanuel (he/him), simply a 1st year BSIT programmer. <br>I plan to be a full-stack engineer in the future.</h2>
 
 - 🔭 I’m currently working on **CS50, TESDA, and The Odin Project**
