@@ -32,6 +32,6 @@
 
 <hr>
 
-<img style="width: 40%" src="https://github-readme-stats.vercel.app/api?username=mastertraits&show_icons=true&locale=en" alt="mastertraits" />
+<img src="https://github-readme-stats.vercel.app/api?username=mastertraits&show_icons=true&locale=en" alt="mastertraits"/>
 
-<img style="width: 40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&" alt="mastertraits" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&" alt="mastertraits" />
