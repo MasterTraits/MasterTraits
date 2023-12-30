@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mastertraits&label=Profile%20views&color=0e75b6&style=flat" alt="mastertraits" /> </p>
 <h1>Hi 👋, I'm Emmanuel</h1>
-<h3>I'm Emmanuel (he/him), simply a 1st year BSIT programmer. <br>I plan to be a full-stack engineer in the future.</h3>
+<h4>I'm Emmanuel (he/him), simply a 1st year BSIT programmer. <br>I plan to be a full-stack engineer in the future.</h4>
 
 - 🔭 I’m currently working on **CS50, TESDA, and The Odin Project **
 
@@ -9,7 +9,8 @@
 - 👯 I’m looking to collaborate on **front-end websites!**
 	🤼 or study together with you! 
 
-<div style="border-bottom: 2px dashed grey"></div>
+<hr>
+
 <h3 style="text-align:center">Reach me out!</h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/emmanuel-fabella-727788264/" target="blank">
