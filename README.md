@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development, Computer Science and Networking**
 
-- 👯 I’m looking to collaborate on **front-end websites!**
+- 👯 I’m looking to collaborate on **front-end websites!** <br>
   🤼 or study together with you! 
 
 <hr>
