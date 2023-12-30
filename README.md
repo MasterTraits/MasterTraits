@@ -1,3 +1,12 @@
+<style>
+	.get {
+		display:flex;
+		justify-content: center;
+		align-items: center;
+	}
+	
+</style>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mastertraits&label=Profile%20views&color=0e75b6&style=flat" alt="mastertraits" /> </p>
 <h1>Hi 👋, I'm Emmanuel</h1>
 <h2>I'm Emmanuel (he/him), simply a 1st year BSIT programmer. <br>I plan to be a full-stack engineer in the future.</h2>
@@ -31,7 +40,8 @@
 
 
 <hr>
-
+<div class="get">
 <img src="https://github-readme-stats.vercel.app/api?username=mastertraits&show_icons=true&locale=en" alt="mastertraits" width="390" style="max-width: 100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&" alt="mastertraits" width="390" style="max-width: 100%" />
+</div>
