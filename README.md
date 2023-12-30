@@ -22,7 +22,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emmanuelfabella606@gmail.com" target="blank">
     <button>Gmail</button>
   </a>
-</p>
+</p><br>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -32,6 +32,6 @@
 
 <hr>
 
-<img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=mastertraits&show_icons=true&locale=en" alt="mastertraits" />
+<img style="width: 40%" src="https://github-readme-stats.vercel.app/api?username=mastertraits&show_icons=true&locale=en" alt="mastertraits" />
 
-<img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&" alt="mastertraits" />
+<img style="width: 40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&" alt="mastertraits" />
