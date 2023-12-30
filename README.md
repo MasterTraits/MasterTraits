@@ -10,6 +10,9 @@
   🤼 or study together with you! 
 
 <hr>
+| Name |  |
+| ---- | ---- |
+| - 🔭 I’m currently working on **CS50, TESDA, and The Odin Project**<br><br>- 🌱 I’m currently learning **Web Development, Computer Science and Networking**<br><br>- 👯 I’m looking to collaborate on **front-end websites!** <br><br>  🤼 or study together with you!  | <h3 align="center">Reach me out!</h3><br><p align="center"><br><a href="https://www.linkedin.com/in/emmanuel-fabella-727788264/" target="blank"><br><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Github" height="30" width="40" /><br></a><br><a href="https://fb.com/emmanuel fabella" target="blank"><br><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /><br></a><br><a href="https://mail.google.com/mail/?view=cm&fs=1&to=emmanuelfabella606@gmail.com" target="blank"><br><img align="center" style="border-radius: 50%" src="https://i.pinimg.com/736x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" alt="Gmail" height="40" width="40" /><br></a><br></p>
 
 <h3 align="center">Reach me out!</h3>
 <p align="center">
