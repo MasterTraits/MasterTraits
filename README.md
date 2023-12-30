@@ -10,11 +10,11 @@
   🤼 or study together with you! 
 
 <hr>
-| Try |  |
-| ---- | ---- |
-| - 🔭 I’m currently working on **CS50, TESDA, and The Odin Project** <br> | |
-| - 🌱 I’m currently learning **Web Development, Computer Science and Networking** <br> | | 
-| - 👯 I’m looking to collaborate on **front-end websites!** <br><br>  🤼 or study together with you! <br> | |
+| Try                                                                                                        |      |
+| ---------------------------------------------------------------------------------------------------------- | ---- |
+| - 🔭 I’m currently working on **CS50, TESDA, and The Odin Project**                                        |      |
+| - 🌱 I’m currently learning **Web Development, Computer Science and Networking**                           |      | 
+| - 👯 I’m looking to collaborate on **front-end websites!** <br><br>  🤼 or study together with you!        |      |
 
 <h3 align="center">Reach me out!</h3>
 <p align="center">
