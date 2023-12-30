@@ -31,8 +31,8 @@
 
 
 <hr>
-<div class="get">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mastertraits&show_icons=true&locale=en" alt="mastertraits" width="390" style="max-width: 100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&" alt="mastertraits" width="400" style="max-width: 100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&" alt="mastertraits" width="405" style="max-width: 100%" />
 </div>
