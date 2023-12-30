@@ -22,7 +22,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=emmanuelfabella606@gmail.com" target="blank">
     <button>Gmail</button>
   </a>
-</p><br>
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
