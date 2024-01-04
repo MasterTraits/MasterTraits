@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **CS50, TESDA, and The Odin Project**
 - 🌱 I’m currently learning **Web Development, Computer Science and Networking**
-- 💯 New year's resolution: More Commits
+- 💯 New year's resolution: **More Commits**
 - 👯 I’m looking to collaborate on **front-end websites!** <br>
-  🤼 or study together with you! 
+  🤼 or **study together with you!**
 
 <hr>
 <div align="center">
