@@ -4,11 +4,8 @@
 <h2 align="center">I'm Emmanuel (he/him), simply a 1st year BSIT programmer. <br>I plan to be a full-stack engineer in the future.</h2><br>
 
 - 🔭 I’m currently working on **CS50, TESDA, and The Odin Project**
-
 - 🌱 I’m currently learning **Web Development, Computer Science and Networking**
-
 - 💯 New year's resolution: More Commits
-
 - 👯 I’m looking to collaborate on **front-end websites!** <br>
   🤼 or study together with you! 
 
