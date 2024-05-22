@@ -20,11 +20,11 @@
 
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mastertraits&show_icons=true&theme=highcontrast&locale=en" alt="mastertraits" 
-    style="width: 50%"
+    style="width: 45%"
     /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&theme=highcontrast" alt="mastertraits" 
-     style="width: 50%"
+     style="width: 45%"
      /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastertraits&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mastertraits" /></p>
