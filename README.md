@@ -20,11 +20,11 @@
 
 
 <p style="display: inline">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mastertraits&show_icons=true&theme=highcontrast&locale=en" alt="mastertraits" 
-    style="width: 45%"
+    style="width: 40%"
     /></p>
 
 <p style="display: inline"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&theme=highcontrast" alt="mastertraits" 
-     style="width: 45%"
+     style="width: 40%"
      /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastertraits&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mastertraits" /></p>
