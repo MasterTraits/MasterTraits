@@ -24,10 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&theme=highcontrast" alt="mastertraits" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastertraits&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mastertraits" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastertraits&show_icons=true&theme=tokyonight&locale=en" alt="mastertraits" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mastertraits&theme=highcontrast" alt="mastertraits" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastertraits" alt="mastertraits" /></a> </p>
