@@ -2,7 +2,7 @@
 
 <img src="Welcome (2).gif" type="image/gif" alt="intro" width="auto" align="center">
 <br/>
-<h2 align="center">1st Year BSIT, front-end developer</h2><br>
+<h2 align="center">README in construction (too lazy)</h2><br>
 
 - 🔭 I’m currently working on **CS50, TESDA, and The Odin Project**
 - 🌱 I’m currently learning **Web Development, Computer Science and Networking**
